@@ -3,13 +3,14 @@
 class ORDER:
     ORDERS_AVİLABLE = {
         "Ad günü tortu": {"Satış qiyməti": 30,
-                          "Maya qiyməti": 15,
+                          "Maya qiyməti": 17,
                           "Hazırlanma vaxtı": 3},
 
-        "Toy üçün tort": {"Satış qiyməti": 50, 
-                          "Maya qiyməti": 25, 
+        "Toy üçün tort": {"Satış qiyməti": 35, 
+                          "Maya qiyməti": 20, 
                           "Hazırlanma vaxtı": 5}
     }
+
 
 # Tort dekorasiyaları
 class DECORATIONS:
