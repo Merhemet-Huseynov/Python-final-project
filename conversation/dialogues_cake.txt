@@ -1,0 +1,20 @@
+Müştəri: Salam, bir tort 🍰 almaq istəyirəm.
+Satıcı: Salam, hansı növ tort 🎂 istəyirsiniz?
+Müştəri: {cake} 🍪 olsun. 
+Satıcı: Bəs çəkisi nə qədər olsun? ⚖️
+Müştəri: {weight} kq civarı olsun. 💪
+Satıcı: Tamam, buyurun tortunuz hazırdır, qiyməti {total_price} manat. 💵🍰
+Müştəri: Buyurun, pulu, burdan çıxa bilərsiniz. 💳😊
+Satıcı: Mağazamızdan istifadə etdiyiniz üçün təşəkkür edirik! Buyurun çeki. 🧾🎂
+
+
+Müştəri: Salam, bir tort 🍰 almaq istəyirəm, amma bir az fərqli 🤔 olsun.
+Satıcı: Salam! Nə cür tort 🎂 istəyirsiniz? **Şokoladlı** 🍫, meyvəli 🍓, yoxsa bir az ekzotik 🌺 bir şey?
+Müştəri: {cake} yaxşı olar, amma içində bol krem 🍫 olsun.
+Satıcı: Aha, kremli {cake}, çox yaxşı seçim! Çəkisi nə qədər olsun? ⚖️
+Müştəri: {weight} kq olar, amma keyfiyyətli 🌟 olsun.
+Satıcı: Çox yaxşı, deməli, keyfiyyətli bir tort istəyirsiniz. Qiymət isə {total_price} manat. 💰🍰
+Müştəri: Hə, bu qiymət yaxşıdır, alıram. Pulu burada ödəyim. 💳😊
+Satıcı: Buyurun burada ödəyə bilərsiniz. 🧾💵
+Satıcı: Mağazamıza gəldiyiniz üçün təşəkkürlər! Ümid edirəm tortu çox bəyənərsiniz... 🍰🎉
+Müştəri: Əlbəttə! Çox sağ olun, bir daha gələcəyəm! 😊🎂

@@ -19,13 +19,12 @@ class Customers:
             
         return "\n".join(result)
 
-    random_customer_count = random.randint(1, 2) 
+    random_customer_count = random.randint(1, 9) 
 
 
 # Müştəri yaradır, onun pulunu, sifarişin çəkisini, və id-ni yaradır
 def create_customer():
-    count = str(id(random))[-4:]
-    customer_name = f"Müştəri {count}"  
+    customer_name = f"Müştəri"  
     random_money = random.randint(500, 2000)
     order_weight = random.randint(15, 30)
 

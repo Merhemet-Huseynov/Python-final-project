@@ -13,7 +13,7 @@ class Balance:
     # Xərcləri hesablamaq
     def add_expense(self, amount):
         self.exspense_balance += amount
-        self.calculate_net_balance()
+        self.calculate_net_balance()      
 
     # Ümumi gəliri hesablamaq
     def add_income(self, amount):
@@ -29,3 +29,4 @@ class Balance:
         self.exspense_balance = 0
         self.total_income_balance = 0
         self.net_balance = 0
+

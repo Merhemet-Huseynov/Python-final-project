@@ -1,0 +1,20 @@
+Müştəri: Salam, şirniyyat 🍩 almaq istəyirəm, köməklik edə bilərsiniz? 🍰
+Satıcı: Salam, hansı növ şirniyyat 🍪 istəyirsiniz? 🤔
+Müştəri: {sweets} 🍩 var? 🍫  
+Satıcı: Bəli, var. Nə qədər olsun? ⚖️
+Müştəri: {weight} kq olsun, amma yüngül olmasın, birdə çox dadlı olsun! 🍬🍫😋
+Satıcı: Şirniyyat 🍪 hazırdır, qiyməti {total_price} manat. 💵🍫
+Müştəri: Pulu, burdan çıxın. 💳😊
+Satıcı: Buyurun, çeki təqdim edirəm. 🧾🍪
+    
+
+Müştəri: Salam, bu gün şirniyyat 🎂 alıb özümü şənləndirmək istəyirəm. 🍰🎉
+Satıcı: Salam! Gözəl fikirdir. Hansı şirniyyatdan 🍩 almaq istəyirsiniz? 🤩
+Müştəri: Mənə {sweets} 🍪 lazımdır, amma mütləq dadı möhtəşəm olmalıdır! 😋🍬
+Satıcı: Əlbəttə, {sweets} bizim ən sevilən şirniyyatımızdır. Hər zaman təzədir. 🧁💖
+Müştəri: Məncə {weight} kq alınsa, kifayət edər. Həm də evdə bir az da ailə 👨‍👩‍👧‍👦 var. 🍪
+Satıcı: Mükəmməl seçim! Bu qədər {weight} kq {sweets} 🍩 sizi heç yanıltmaz. Qiymət {total_price} manat. 💰🍫
+Müştəri: Bu qiymətə razıyam, amma pulu yalnız ədalətli şəkildə verərəm! 🤝💵
+Satıcı: Təbii ki! Bütün şirniyyatlarımız ədalətə uyğundur! Çekinizi təqdim edirəm. 🧾🍩
+Müştəri: Çox sağ olun, şirniyyatla həyat çox dadlı olacaq. 😋🍰
+Satıcı: Gələn dəfə də gözləyirik! 😊🎉

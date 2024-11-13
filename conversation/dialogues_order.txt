@@ -1,0 +1,31 @@
+Müştəri: Salam, bir tort 🎂 sifariş etmək istəyirəm. 🍓🍰
+Satıcı: Salam, buyurun necə bir tort 🎂 sifariş etmək istəyirsiniz? 🤔
+Müştəri: {order} sifariş etmək istəyirəm, amma mütləq dadlı olsun! 😋
+Satıcı: Tort 🎂 üçün dekorasiya əlavə edə bilərsinizmi? 🌸🎨
+Müştəri: {decoration} olsun, şokoladlı parçalar 🍫 çox gözəl olar.
+Satıcı: Çox gözəl! Çəkisi nə qədər olsun? ⚖️
+Müştəri: {weight} kq olsun, amma çox böyük olmasın! 🎂💪
+Satıcı: Qeyd etdik, tortunuz {time} saat sonra hazır olacaq. ⏰🔜
+Satıcı: Qiyməti {total_price} manat edir. 💵💰
+{time} saat sonra...
+Müştəri: Təkrar salamlar, sifariş hazırdır? 😊🎉
+Satıcı: Salam, sizin sifariş hazırdır. 🎉🥳
+Müştəri: Mükəmməl tort! Tortun pulunu buradan çıxın. 💳💖
+Satıcı: Əla, bəyəndiyinizə sevindim. Buyurun, tortun çeki. 🧾💝
+
+Müştəri: Salam! Mən bir tort 🎂 sifariş etmək istəyirəm. 🍓🍰
+Satıcı: Salam! Əla, necə bir tort 🎂 sifariş etmək istəyirsiniz? 🤔🎉
+Müştəri: Mənə {order} lazımdır, amma ən dadlısını istəyirəm! 😋🍰
+Satıcı: Əlbəttə, dekorasiyanı necə istərdiniz? 🌟🌸
+Müştəri: Hmmm, çox maraqlı! {decoration} ilə bəzəsəniz əla olar. ✨🌼
+Satıcı: Oooo, çox gözəl bir seçim! Tortun çəkisi nə qədər olsun? ⚖️🎂
+Müştəri: {weight} kq lazımdır, amma balaca olmasın. Yeterli qədər böyük olsun. 🥳💪
+Satıcı: Tamam, tortunuz {time} saat sonra hazır olacaq. ⏰🎉
+Satıcı: Qiymət isə {total_price} manat olacaq. Razısınız? 💵💸
+Müştəri: Hə, bəli! Mən tortu gözləyəcəyəm. 😄⏳
+{time} saat sonra...
+Müştəri: Salam! Tort hazırdır? 🎉🎂
+Satıcı: Salam! Bəli, tortunuz hazırdır və çox gözəl alınıb. ✨🎉
+Müştəri: Vay, necə də gözəl alınıb! Pulu burdan çıxın. 💳💖
+Satıcı: Çox sağ olun, tortu bəyəndiyinizə sevindim. Buyurun, çeki də sizə təqdim edirəm. 🧾💐
+Müştəri: Çox sağ olun! Hər şey mükəmməl oldu. 😍🎉
