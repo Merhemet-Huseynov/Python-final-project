@@ -51,7 +51,7 @@ def process_selling_sweets(*args):
                     )
 
         # Çek məlumatları
-        print(f"Sifariş:              I {sweets_choose}")
+        print(f"\nSifariş:              I {sweets_choose}")
         print(f"Sifarişin çəkisi:     I {customer_order_weight} kq")
         print(f"Sifarişin 1kq qiymət: I {sweets_selling_price} m")
         print(f"Ümumi qiymət:         I {sweet_total_sell_price} m")

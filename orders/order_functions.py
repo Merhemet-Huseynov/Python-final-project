@@ -46,7 +46,7 @@ class OrderFunctions:
                                                                     )
         
         for item in dialogue_customer_seller:
-            # time.sleep(1.5)
+            time.sleep(1.5)
             print(item)
 
 
