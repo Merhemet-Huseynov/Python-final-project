@@ -48,7 +48,7 @@ def process_selling_sweets(*args):
         add_to_table(table, customer_name, sweets_choose, 
                      customer_order_weight, sweets_selling_price, 
                      sweet_total_sell_price, sell_time
-                    )  
+                    )
 
         # Çek məlumatları
         print(f"Sifariş:              I {sweets_choose}")

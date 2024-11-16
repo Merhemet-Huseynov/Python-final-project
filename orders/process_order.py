@@ -1,7 +1,7 @@
-from datetime import datetime
 from orders.order_functions import OrderFunctions
-from constants import ORDER
 from table import add_to_table  
+from datetime import datetime
+from constants import ORDER
 import random
 
 
@@ -23,14 +23,21 @@ def process_order(*args):
 
     # Sifarişin ümumi qiymətini hesablayır
     order_total_sell_price = order_functions.calculate_order_price(selling_price, 
-                                                                  customer_order_weight
+                                                                   customer_order_weight
                                                                   )
     sell_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     # Balansı yoxlayır
     if order_total_sell_price <= customer_money:
-        # Xərcləri və net qazancı hesablayır
-        costs = order_functions.calculate_costs(yeast_price, customer_order_weight)
+        
+        # Xərcləri hesablayır
+        costs = order_functions.calculate_costs(yeast_price, 
+                                                customer_order_weight
+                                                )
+
+        balance.total_income_balance += order_total_sell_price # Ümumi satışlar hesablayır
+        balance.exspense_balance += costs                      # Ümumi xərcləri hesablayır
+        balance.net_balance += order_total_sell_price - costs  # Təmiz qazancı hesablayır
 
         # Dekorasiyanı seçmək və çap etmək
         decorators = order_functions.cake_decoration()
@@ -43,12 +50,13 @@ def process_order(*args):
 
 
         # Cədvələ əlavə olunması
-        add_to_table(table, customer_name, placing_order, customer_order_weight, 
-                     selling_price, order_total_sell_price, sell_time
+        add_to_table(table, customer_name, placing_order, 
+                     customer_order_weight, selling_price, 
+                     order_total_sell_price, sell_time
                      )
 
         # Çek məlumatları
-        print(f"\nSifariş:            I {placing_order}")
+        print(f"\nSifariş:              I {placing_order}")
         print(f"Sifarişin çəkisi:     I {customer_order_weight} kq")
         print(f"Sifarişin 1kq qiymət: I {selling_price} m")
         print(f"Ümumi qiymət:         I {order_total_sell_price} m")

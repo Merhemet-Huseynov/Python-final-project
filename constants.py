@@ -1,13 +1,13 @@
 # Tort növləri və onların qiymətləri, hazırlama vaxtı və maya qiyməti
 class ORDER:
     ORDERS_AVİLABLE = {
-        "Ad günü tortu": {"Satış qiyməti": 30,
-                          "Maya qiyməti": 17,
+        "Ad günü tortu": {"Satış qiyməti": 18,
+                          "Maya qiyməti": 10,
                           "Hazırlanma vaxtı": 3
                         },
 
-        "Toy üçün tort": {"Satış qiyməti": 35, 
-                          "Maya qiyməti": 20, 
+        "Toy üçün tort": {"Satış qiyməti": 20, 
+                          "Maya qiyməti": 11, 
                           "Hazırlanma vaxtı": 5
                         }
     }
@@ -84,3 +84,47 @@ class CAKE:
                     "Satış qiymət": 15,
         }
     }   
+
+
+class MENU:
+    BEVERAGES = {
+            "limonad": {
+                "Maya Dəyəri": 1.5,
+                "Satış Qiyməti": 3
+            },
+            "kola": {
+                "Maya Dəyəri": 1,
+                "Satış Qiyməti": 2
+            },
+            "çay": {
+                "Maya Dəyəri": 1,
+                "Satış Qiyməti": 2
+            },
+            "kofe": {
+                "Maya Dəyəri": 1.5,
+                "Satış Qiyməti": 3
+            },
+            "kapuçino": {
+                "Maya Dəyəri": 2,
+                "Satış Qiyməti": 4
+        }
+    }
+    
+    SWEETS_MENU = {
+            "çizkeyk": {
+                "Maya Dəyəri": 3,
+                "Satış Qiyməti": 6
+            },
+            "şokoladlı kek": {
+                "Maya Dəyəri": 2.5,
+                "Satış Qiyməti": 5
+            },
+            "ağ ekler": {
+                "Maya Dəyəri": 1.5,
+                "Satış Qiyməti": 4
+            },
+            "qara ekler": {
+                "Maya Dəyəri": 4,
+                "Satış Qiyməti": 8
+        }
+    }

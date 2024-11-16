@@ -1,0 +1,40 @@
+👩‍💼 Satıcı: Salam, "Bistro"-ya xoş gəldiniz.
+👩‍💼 Satıcı: Bugün sizə {beverage} və {sweet} təklif edirik.
+👤 Müştəri: Biz hərəsindən {count} ədəd istəyirik.
+👩‍💼 Satıcı: Sizin sifarişinizin ümumi məbləği {total_price} m-dir.
+👤 Müştəri: Buyurun, ödəyirəm.
+👩‍💼 Satıcı: Təşəkkürlər! Sifarişiniz hazırlanır... Nuş olsun! Çekiniz buyurun.
+
+
+👩‍💼 Satıcı: Salam, "Bistro"-ya xoş gəldiniz. Gününüz necə keçir?  
+👤 Müştəri: Salam, çox sağ olun! Gözəl keçir. Sizdə yeni nə var?  
+👩‍💼 Satıcı: Bugün sizə {beverage} və {sweet} təklif edirik. Xüsusi olaraq çox sevilir!  
+👤 Müştəri: Maraqlıdır! Dadını yoxlamaq istəyirəm.  
+👩‍💼 Satıcı:  Bəs hərəsindən neçə ədəd istəyirsiniz?  
+👤 Müştəri: Mən hərəsindən {count} ədəd istəyirəm.  
+👩‍💼 Satıcı: Sizin sifarişinizin ümumi məbləği {total_price} m-dir. Hər şey qaydasındadır?  
+👤 Müştəri: Əlbəttə, hər şey yaxşıdır. Buyurun, ödəyirəm.  
+👩‍💼 Satıcı: Təşəkkür edirəm! Sifarişinizi hazırlamaq üçün bir neçə dəqiqə vaxt lazım olacaq.  
+👤 Müştəri: Problemi yoxdur, gözləyərəm.  
+(5 dəqiqə sonra)  
+👩‍💼 Satıcı: Sifarişiniz hazırdır! Budur: {count} ədəd {beverage} və {count} ədəd {sweet}.  
+👤 Müştəri: Çox sağ olun! Bu qədər gözəl xidmət üçün sizə təşəkkür edirəm.  
+👩‍💼 Satıcı: Çox şadıq ki, məmnun qaldınız. Çekinizi unutmayın! Nuş olsun!  
+👤 Müştəri: Sağ olun!
+
+
+👩‍💼 Satıcı: Salam, "Bistro"-ya xoş gəldiniz. Necə kömək edə bilərəm?  
+👤 Müştəri: Salam, çox sağ olun! Mənə bir içki və şirniyyat təklif edin.  
+👩‍💼 Satıcı: Bugün sizə {beverage} və {sweet} təklif edirik. Hər ikisi də çox populyardır!  
+👤 Müştəri: Bu çox maraqlı səslənir! Mən hər ikisindən sifariş vermək istəyirəm.  
+👩‍💼 Satıcı: Əla seçim! Bəs neçə ədəd istəyirsiniz?  
+👤 Müştəri: Hərəsindən {count} ədəd istəyirəm.  
+👩‍💼 Satıcı: Sizin sifarişinizin ümumi məbləği {total_price} m-dir. Beləliklə, ödəmə üçün hazırsınızmı?  
+👤 Müştəri: Bəli, ödəməyə hazıram.  
+👩‍💼 Satıcı: Təşəkkürlər, ödəməniz qəbul olundu! Sifarişinizin hazırlanması üçün bir neçə dəqiqə vaxtımız olacaq.  
+👤 Müştəri: Tamam, gözləyirəm.  
+(10 dəqiqə sonra)  
+👩‍💼 Satıcı: Sifarişiniz hazırdır! Budur: {count} ədəd {beverage} və {count} ədəd {sweet}.  
+👤 Müştəri: Çox sağ olun! Gözəl xidmət üçün təşəkkür edirəm.  
+👩‍💼 Satıcı: Bu bizim işimiz! Çekiniz burada, nuş olsun! Yenə gözləyirik.  
+👤 Müştəri: Sağ olun! Gözəl günlər!  

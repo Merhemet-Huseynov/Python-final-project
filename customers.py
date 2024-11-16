@@ -26,7 +26,7 @@ class Customers:
 def create_customer():
     customer_name = f"Müştəri"  
     random_money = random.randint(500, 2000)
-    order_weight = random.randint(15, 30)
+    order_weight = random.randint(1, 10)
 
     # Müştəri obyektini yaratmaq
     customers = Customers()  
